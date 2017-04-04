@@ -19,7 +19,7 @@
     },
     methods: {
       update: function (e) {
-        this.target = 'Weex'
+        this.target = 'Weexss'
         console.log('target:', this.target)
       }
     }
